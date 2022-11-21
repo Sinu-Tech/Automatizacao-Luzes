@@ -1,5 +1,5 @@
-unsigned int EchoPin = 23;
-unsigned int TrigPin = 22;
+unsigned int EchoPin = 7;
+unsigned int TrigPin = 8;
 unsigned long Time_Echo_us = 0;
 
 unsigned long Len_mm_X100 = 0;

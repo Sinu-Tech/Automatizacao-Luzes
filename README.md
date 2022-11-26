@@ -47,7 +47,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/1036750972598374460/1045878510243303434/unknown.png" alt="drawing" width="200"/>
 
-#### Led difuso é um led onde o encapsulamento plástico é fosco, assim vc consegue visualizar ele facilmente na liz do dia. geralmente é utilizado apenas para vc saber que algo está ligado e tal. Os outros tipos são "cristalinos", onde a luz é direcionada pra frente.
+#### Led difuso é um led onde o encapsulamento plástico é fosco, assim vc consegue visualizar ele facilmente na luz do dia. geralmente é utilizado apenas para vc saber que algo está ligado e tal. Os outros tipos são "cristalinos", onde a luz é direcionada pra frente.
 
 <img src="https://cdn.discordapp.com/attachments/1036750972598374460/1045878637808848926/unknown.png" alt="drawing" width="200"/>
 

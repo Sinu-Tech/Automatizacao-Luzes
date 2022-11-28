@@ -25,6 +25,11 @@ Nosso projeto foi iniciado a partir do incentivo do professor André, durante a 
 A solução proposta sugere a utilização de microcontroladores como ESP32 ou Arduino para gerenciar os modulos que são acomplados aos microcontroladores (como RFID, Ultrassonico, etc) em conjunto com middlewares para que possam ser automatizados e auditados.
 ## Arquitetura da solução
 
+Demonstração de conexão com o Sensor de distância
+
+<img src="https://cdn.discordapp.com/attachments/1036750972598374460/1046801237087101048/Fantastic_Lappi-Stantia.png" alt="drawing" width="700"/>
+
+(Infelizmente na aplicação onde eu estava construindo o esquema visual, não tinha sensor FRID pra poder demonstrar a conexão dele com o servomotor)
 
 ## Materiais e métodos
 
